@@ -12,5 +12,5 @@ LangModel/blob/main/Lang_Model_NLP_Final.ipynb
 3. Team Detail : 1. Dr D G Krishna Mohan , VIT
                              2. Mr K J S R Raju, SVECW
                              3. Dr Geetika S Pandey, BVRIH
-4. Caluculate the unigram and bigram probabilities and moving towards perplexity and word predictions
+4. Caluculated the unigram and bigram probabilities and moving towards perplexity and word predictions
 
