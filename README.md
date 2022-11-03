@@ -5,9 +5,7 @@ An N-Gram Language Model task-2022
 
 2.  Github Repositoty Link : 
 
-https://github.com/dgkmohan1986/NLP-
-
-LangModel/blob/main/Lang_Model_NLP_Final.ipynb
+https://github.com/dgkmohan1986/NLP-LangModel/blob/main/Lang_Model_NLP_Final.ipynb
 
 3. Team Detail : 1. Dr D G Krishna Mohan , VIT
                              2. Mr K J S R Raju, SVECW
